@@ -1,3 +1,3 @@
-# Tic-Tac-Toe in React
+# Tic-Tac-Toe 
 
-Find the project demo at https://CodeCompleteYT.github.io/react-tic-tac-toe
+Bluid by deepesh
